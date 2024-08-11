@@ -1,0 +1,7 @@
+pushValue -10
+pushValue 20
+pushValue 30
+isEmpty
+pushOperation max
+delayPop 1000
+exit

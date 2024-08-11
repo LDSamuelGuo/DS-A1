@@ -1,0 +1,7 @@
+isEmpty
+pushValue -10
+pushValue 20
+pushValue 30
+pushOperation lcm
+delayPop 1500
+exit
